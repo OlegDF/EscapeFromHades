@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\Android\WORK\EscapeFromHades2\desktop\src\com\escapefro
+ mhades\desktop\DesktopLauncher.java
+Main-Class: com.escapefromhades.desktop.DesktopLauncher
+

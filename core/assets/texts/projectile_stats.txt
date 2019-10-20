@@ -1,0 +1,33 @@
+4
+firebottle
+nodirection
+0.2f 0.525f
+4 7
+0.2f
+7 7 9 9
+1
+stoppable
+ghostarrow
+directed
+0.1f 0.3f
+1 4
+0.2f
+3 8 5 12
+1
+unstoppable
+ghostrock
+directed
+0.375f 0.45f
+5 6
+0.3f
+5 10 11 16
+2
+unstoppable
+arrow
+directed
+0.1f 0.3f
+1 4
+0.2f
+3 8 3 8
+1
+stoppable

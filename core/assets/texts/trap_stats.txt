@@ -1,0 +1,45 @@
+4
+spikes
+nodirection
+0.6f 0.6f
+8 8
+1
+3.6f 2.4f 3.0f
+0 0
+low
+nonranged
+0
+0.5f 0.5f 0.5f 0.5f
+axe
+nodirection
+0.2f 0.4f
+4 6
+2
+3.6f 2.8f 3.2f
+8 0
+high
+nonranged
+0
+1f 1f 0.5f 0.5f
+tower_archer
+directed
+0.525f 0.225f
+7 3
+1
+3.6f 2.85f 3.375f
+0 16
+high
+ranged
+1
+0.5f 0.5f 0.5f 0.5f
+catapult
+directed
+1.05f 0.375f
+14 5
+2
+4.8f 3.375f 4.425f
+16 16
+high
+ranged
+2
+1.5f 0.5f 0.5f 0.5f

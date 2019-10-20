@@ -1,0 +1,11 @@
+10
+Choose your character:
+Arrow keys to select character to the left/right
+ENTER to start the escape from Hades
+Controls: arrow keys to move, X to attack
+Congratulations! You have escaped Hades
+and returned to the world of the living!
+You did it in 
+Do it once more?
+Yes
+No

@@ -1,0 +1,25 @@
+3
+hoplite
+0.6f 0.6f 0.6f 1.2f 0.5f
+8 8 8 16 6
+4
+melee
+1.75f
+0
+0.375f
+messenger
+0.3f 0.3f 0.6f 1.2f 0.25f
+8 8 8 16 6
+2
+melee
+1.6f
+0
+0.1875f
+alchemist
+0.6f 0.6f 0.6f 1.2f 0.5f
+8 8 8 16 6
+2
+ranged
+1.6f
+0
+0.375f

@@ -1,0 +1,272 @@
+
+main_menu.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+finishportal1
+  rotate: false
+  xy: 218, 241
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+finishportal3
+  rotate: false
+  xy: 234, 241
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+finishportal7
+  rotate: false
+  xy: 234, 241
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+finishportal4
+  rotate: false
+  xy: 80, 61
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+finishportal6
+  rotate: false
+  xy: 80, 61
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+finishportal5
+  rotate: false
+  xy: 202, 225
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+finishportal8
+  rotate: false
+  xy: 186, 225
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+finishportal2
+  rotate: false
+  xy: 186, 225
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+messenger_walk_south1
+  rotate: false
+  xy: 111, 155
+  size: 10, 13
+  orig: 16, 20
+  offset: 3, 2
+  index: -1
+messenger_walk_south2
+  rotate: false
+  xy: 0, 0
+  size: 9, 12
+  orig: 16, 20
+  offset: 4, 4
+  index: -1
+messenger_walk_south3
+  rotate: false
+  xy: 104, 51
+  size: 7, 10
+  orig: 16, 20
+  offset: 5, 4
+  index: -1
+messenger_walk_south4
+  rotate: false
+  xy: 111, 144
+  size: 9, 11
+  orig: 16, 20
+  offset: 4, 2
+  index: -1
+messenger_walk_south5
+  rotate: false
+  xy: 94, 48
+  size: 10, 13
+  orig: 16, 20
+  offset: 3, 2
+  index: -1
+messenger_walk_south6
+  rotate: false
+  xy: 9, 0
+  size: 9, 12
+  orig: 16, 20
+  offset: 3, 4
+  index: -1
+messenger_walk_south7
+  rotate: false
+  xy: 111, 134
+  size: 7, 10
+  orig: 16, 20
+  offset: 4, 4
+  index: -1
+messenger_walk_south8
+  rotate: false
+  xy: 18, 1
+  size: 9, 11
+  orig: 16, 20
+  offset: 3, 2
+  index: -1
+selection_circle1
+  rotate: false
+  xy: 122, 224
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+selection_circle2
+  rotate: false
+  xy: 122, 192
+  size: 30, 32
+  orig: 32, 32
+  offset: 1, 0
+  index: -1
+selection_circle3
+  rotate: false
+  xy: 0, 12
+  size: 28, 32
+  orig: 32, 32
+  offset: 2, 0
+  index: -1
+selection_circle4
+  rotate: false
+  xy: 0, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+selection_circle5
+  rotate: false
+  xy: 154, 226
+  size: 32, 30
+  orig: 32, 32
+  offset: 0, 1
+  index: -1
+selection_circle6
+  rotate: false
+  xy: 32, 48
+  size: 32, 28
+  orig: 32, 32
+  offset: 0, 2
+  index: -1
+settings_icon1
+  rotate: false
+  xy: 186, 240
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+settings_icon2
+  rotate: false
+  xy: 64, 60
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+settings_icon3
+  rotate: false
+  xy: 202, 240
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sound_arrow
+  rotate: false
+  xy: 122, 176
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+sound_scale
+  rotate: false
+  xy: 122, 170
+  size: 16, 6
+  orig: 16, 16
+  offset: 0, 5
+  index: -1
+sound_slider
+  rotate: false
+  xy: 80, 48
+  size: 14, 13
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+stagescreen0
+  rotate: false
+  xy: 0, 168
+  size: 122, 88
+  orig: 128, 96
+  offset: 2, 5
+  index: -1
+stagescreen1
+  rotate: false
+  xy: 0, 76
+  size: 111, 92
+  orig: 128, 96
+  offset: 6, 1
+  index: -1
+startportal1
+  rotate: false
+  xy: 218, 226
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+startportal2
+  rotate: false
+  xy: 234, 226
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+startportal8
+  rotate: false
+  xy: 234, 226
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+startportal3
+  rotate: false
+  xy: 96, 61
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+startportal7
+  rotate: false
+  xy: 96, 61
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+startportal4
+  rotate: false
+  xy: 138, 177
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+startportal6
+  rotate: false
+  xy: 138, 177
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1
+startportal5
+  rotate: false
+  xy: 64, 45
+  size: 16, 15
+  orig: 16, 16
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,153 @@
+
+titleatlas.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+titlescreen1
+  rotate: false
+  xy: 518, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen10
+  rotate: false
+  xy: 2, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen11
+  rotate: false
+  xy: 2, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen12
+  rotate: false
+  xy: 260, 778
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen13
+  rotate: false
+  xy: 2, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen14
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen15
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen16
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen5
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen6
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen7
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen8
+  rotate: false
+  xy: 260, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen17
+  rotate: false
+  xy: 260, 197
+  size: 256, 191
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen18
+  rotate: false
+  xy: 518, 407
+  size: 256, 175
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen19
+  rotate: false
+  xy: 260, 43
+  size: 256, 152
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen2
+  rotate: false
+  xy: 2, 196
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen20
+  rotate: false
+  xy: 518, 298
+  size: 256, 107
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen21
+  rotate: false
+  xy: 518, 219
+  size: 256, 77
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen3
+  rotate: false
+  xy: 260, 390
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen4
+  rotate: false
+  xy: 518, 584
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1
+titlescreen9
+  rotate: false
+  xy: 2, 2
+  size: 256, 192
+  orig: 256, 192
+  offset: 0, 0
+  index: -1

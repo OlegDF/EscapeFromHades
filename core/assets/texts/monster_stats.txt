@@ -1,0 +1,25 @@
+3
+skellington
+normal
+0.6f 0.6f
+8 8
+patrol
+1
+1
+0.35f
+spectral_hoplite
+extended
+0.6f 0.6f 0.6f 0.6f
+8 8 8 8
+cyclic
+1
+1
+0.35f
+spectral_trojan
+extended
+0.6f 0.6f 0.6f 0.6f
+8 8 8 8
+cyclic
+1
+1
+0.35f

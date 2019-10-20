@@ -1,0 +1,895 @@
+
+odysseus.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+odysseus_attack_east10
+  rotate: false
+  xy: 14, 57
+  size: 12, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_east11
+  rotate: false
+  xy: 152, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_east12
+  rotate: false
+  xy: 14, 44
+  size: 12, 13
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_attack_east13
+  rotate: false
+  xy: 122, 243
+  size: 14, 13
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_attack_triple_east13
+  rotate: false
+  xy: 122, 243
+  size: 14, 13
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_attack_east14
+  rotate: false
+  xy: 165, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_east14
+  rotate: false
+  xy: 165, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_east15
+  rotate: false
+  xy: 11, 31
+  size: 12, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_triple_east15
+  rotate: false
+  xy: 11, 31
+  size: 12, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_east16
+  rotate: false
+  xy: 22, 200
+  size: 12, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_east1
+  rotate: false
+  xy: 22, 200
+  size: 12, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_triple_east1
+  rotate: false
+  xy: 22, 200
+  size: 12, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_triple_east16
+  rotate: false
+  xy: 22, 200
+  size: 12, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_east4
+  rotate: false
+  xy: 0, 45
+  size: 14, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_east5
+  rotate: false
+  xy: 26, 43
+  size: 12, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_east6
+  rotate: false
+  xy: 230, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_east7
+  rotate: false
+  xy: 27, 106
+  size: 12, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_east8
+  rotate: false
+  xy: 27, 93
+  size: 12, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_east9
+  rotate: false
+  xy: 166, 230
+  size: 11, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_north1
+  rotate: false
+  xy: 34, 186
+  size: 11, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_attack_north16
+  rotate: false
+  xy: 34, 186
+  size: 11, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_attack_triple_north1
+  rotate: false
+  xy: 34, 186
+  size: 11, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_attack_triple_north16
+  rotate: false
+  xy: 34, 186
+  size: 11, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_attack_north10
+  rotate: false
+  xy: 63, 225
+  size: 9, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_north11
+  rotate: false
+  xy: 38, 68
+  size: 8, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_north12
+  rotate: false
+  xy: 36, 18
+  size: 8, 12
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_north2
+  rotate: false
+  xy: 34, 199
+  size: 8, 14
+  orig: 24, 24
+  offset: 9, 4
+  index: -1
+odysseus_attack_triple_north2
+  rotate: false
+  xy: 34, 199
+  size: 8, 14
+  orig: 24, 24
+  offset: 9, 4
+  index: -1
+odysseus_attack_north3
+  rotate: false
+  xy: 39, 144
+  size: 8, 14
+  orig: 24, 24
+  offset: 9, 4
+  index: -1
+odysseus_attack_triple_north3
+  rotate: false
+  xy: 39, 144
+  size: 8, 14
+  orig: 24, 24
+  offset: 9, 4
+  index: -1
+odysseus_attack_north4
+  rotate: false
+  xy: 39, 130
+  size: 8, 14
+  orig: 24, 24
+  offset: 9, 4
+  index: -1
+odysseus_attack_north5
+  rotate: false
+  xy: 23, 31
+  size: 11, 12
+  orig: 24, 24
+  offset: 9, 3
+  index: -1
+odysseus_attack_north6
+  rotate: false
+  xy: 45, 31
+  size: 8, 13
+  orig: 24, 24
+  offset: 9, 3
+  index: -1
+odysseus_attack_north7
+  rotate: false
+  xy: 147, 227
+  size: 8, 13
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_north8
+  rotate: false
+  xy: 16, 167
+  size: 9, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_north9
+  rotate: false
+  xy: 16, 153
+  size: 9, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_south10
+  rotate: false
+  xy: 112, 222
+  size: 9, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_south11
+  rotate: false
+  xy: 39, 116
+  size: 8, 14
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_south12
+  rotate: false
+  xy: 0, 0
+  size: 8, 15
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_south14
+  rotate: false
+  xy: 44, 223
+  size: 9, 14
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_south14
+  rotate: false
+  xy: 44, 223
+  size: 9, 14
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_south15
+  rotate: false
+  xy: 230, 230
+  size: 10, 13
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_triple_south15
+  rotate: false
+  xy: 230, 230
+  size: 10, 13
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_south2
+  rotate: false
+  xy: 210, 230
+  size: 10, 13
+  orig: 24, 24
+  offset: 5, 3
+  index: -1
+odysseus_attack_triple_south2
+  rotate: false
+  xy: 210, 230
+  size: 10, 13
+  orig: 24, 24
+  offset: 5, 3
+  index: -1
+odysseus_attack_south3
+  rotate: false
+  xy: 39, 102
+  size: 8, 14
+  orig: 24, 24
+  offset: 7, 2
+  index: -1
+odysseus_attack_triple_south3
+  rotate: false
+  xy: 39, 102
+  size: 8, 14
+  orig: 24, 24
+  offset: 7, 2
+  index: -1
+odysseus_attack_south4
+  rotate: false
+  xy: 38, 54
+  size: 9, 14
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_south5
+  rotate: false
+  xy: 25, 158
+  size: 11, 14
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_attack_south6
+  rotate: false
+  xy: 8, 1
+  size: 8, 14
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_south7
+  rotate: false
+  xy: 39, 88
+  size: 8, 14
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_south8
+  rotate: false
+  xy: 121, 222
+  size: 9, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_south9
+  rotate: false
+  xy: 10, 17
+  size: 9, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_east10
+  rotate: false
+  xy: 26, 69
+  size: 12, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_east11
+  rotate: false
+  xy: 243, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_east12
+  rotate: false
+  xy: 26, 56
+  size: 12, 13
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_attack_triple_east2
+  rotate: false
+  xy: 191, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_attack_east2
+  rotate: false
+  xy: 191, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_attack_triple_east3
+  rotate: false
+  xy: 204, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_attack_east3
+  rotate: false
+  xy: 204, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_attack_triple_east4
+  rotate: false
+  xy: 104, 243
+  size: 18, 13
+  orig: 24, 24
+  offset: 2, 4
+  index: -1
+odysseus_attack_triple_east5
+  rotate: false
+  xy: 27, 145
+  size: 12, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_triple_east6
+  rotate: false
+  xy: 217, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 7, 4
+  index: -1
+odysseus_attack_triple_east7
+  rotate: false
+  xy: 27, 132
+  size: 12, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_east8
+  rotate: false
+  xy: 27, 119
+  size: 12, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_east9
+  rotate: false
+  xy: 155, 230
+  size: 11, 13
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_north10
+  rotate: false
+  xy: 16, 111
+  size: 11, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_triple_north11
+  rotate: false
+  xy: 25, 172
+  size: 10, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_triple_north12
+  rotate: false
+  xy: 102, 223
+  size: 10, 12
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_triple_north13
+  rotate: false
+  xy: 19, 18
+  size: 9, 13
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_north13
+  rotate: false
+  xy: 19, 18
+  size: 9, 13
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_triple_north14
+  rotate: false
+  xy: 25, 186
+  size: 9, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_north14
+  rotate: false
+  xy: 25, 186
+  size: 9, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_triple_north15
+  rotate: false
+  xy: 28, 18
+  size: 8, 12
+  orig: 24, 24
+  offset: 9, 4
+  index: -1
+odysseus_attack_north15
+  rotate: false
+  xy: 28, 18
+  size: 8, 12
+  orig: 24, 24
+  offset: 9, 4
+  index: -1
+odysseus_attack_triple_north4
+  rotate: false
+  xy: 16, 97
+  size: 11, 14
+  orig: 24, 24
+  offset: 9, 4
+  index: -1
+odysseus_attack_triple_north5
+  rotate: false
+  xy: 240, 231
+  size: 11, 12
+  orig: 24, 24
+  offset: 9, 3
+  index: -1
+odysseus_attack_triple_north6
+  rotate: false
+  xy: 82, 227
+  size: 10, 13
+  orig: 24, 24
+  offset: 9, 3
+  index: -1
+odysseus_attack_triple_north7
+  rotate: false
+  xy: 92, 227
+  size: 10, 13
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_triple_north8
+  rotate: false
+  xy: 16, 139
+  size: 11, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_triple_north9
+  rotate: false
+  xy: 35, 172
+  size: 11, 14
+  orig: 24, 24
+  offset: 9, 1
+  index: -1
+odysseus_attack_triple_south10
+  rotate: false
+  xy: 16, 84
+  size: 11, 13
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_attack_triple_south11
+  rotate: false
+  xy: 36, 158
+  size: 10, 14
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_triple_south12
+  rotate: false
+  xy: 0, 15
+  size: 10, 15
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_triple_south13
+  rotate: false
+  xy: 16, 181
+  size: 9, 16
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_south13
+  rotate: false
+  xy: 16, 181
+  size: 9, 16
+  orig: 24, 24
+  offset: 6, 4
+  index: -1
+odysseus_attack_triple_south16
+  rotate: false
+  xy: 34, 30
+  size: 11, 13
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_south1
+  rotate: false
+  xy: 34, 30
+  size: 11, 13
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_south16
+  rotate: false
+  xy: 34, 30
+  size: 11, 13
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_triple_south1
+  rotate: false
+  xy: 34, 30
+  size: 11, 13
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_triple_south4
+  rotate: false
+  xy: 14, 70
+  size: 12, 14
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_attack_triple_south5
+  rotate: false
+  xy: 16, 125
+  size: 11, 14
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_attack_triple_south6
+  rotate: false
+  xy: 53, 225
+  size: 10, 14
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_triple_south7
+  rotate: false
+  xy: 72, 226
+  size: 10, 14
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_attack_triple_south8
+  rotate: false
+  xy: 188, 230
+  size: 11, 13
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_attack_triple_south9
+  rotate: false
+  xy: 199, 230
+  size: 11, 13
+  orig: 24, 24
+  offset: 4, 4
+  index: -1
+odysseus_die1
+  rotate: false
+  xy: 220, 230
+  size: 10, 13
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_die10
+  rotate: false
+  xy: 0, 117
+  size: 16, 20
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die11
+  rotate: false
+  xy: 0, 177
+  size: 16, 20
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die12
+  rotate: false
+  xy: 0, 157
+  size: 16, 20
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die13
+  rotate: false
+  xy: 0, 137
+  size: 16, 20
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die2
+  rotate: false
+  xy: 178, 243
+  size: 13, 13
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_die3
+  rotate: false
+  xy: 136, 230
+  size: 11, 10
+  orig: 24, 24
+  offset: 5, 5
+  index: -1
+odysseus_die4
+  rotate: false
+  xy: 136, 240
+  size: 16, 5
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die14
+  rotate: false
+  xy: 136, 240
+  size: 16, 5
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die5
+  rotate: false
+  xy: 23, 213
+  size: 16, 7
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die6
+  rotate: false
+  xy: 104, 235
+  size: 16, 8
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die7
+  rotate: false
+  xy: 136, 245
+  size: 16, 11
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die8
+  rotate: false
+  xy: 0, 86
+  size: 16, 14
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_die9
+  rotate: false
+  xy: 0, 100
+  size: 16, 17
+  orig: 24, 24
+  offset: 3, 4
+  index: -1
+odysseus_platform
+  rotate: false
+  xy: 120, 235
+  size: 16, 8
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+odysseus_spawn1
+  rotate: false
+  xy: 25, 155
+  size: 2, 3
+  orig: 24, 24
+  offset: 11, 4
+  index: -1
+odysseus_spawn2
+  rotate: false
+  xy: 251, 237
+  size: 5, 6
+  orig: 24, 24
+  offset: 10, 5
+  index: -1
+odysseus_spawn3
+  rotate: false
+  xy: 38, 44
+  size: 9, 10
+  orig: 24, 24
+  offset: 8, 4
+  index: -1
+odysseus_spawn4
+  rotate: false
+  xy: 0, 72
+  size: 14, 14
+  orig: 24, 24
+  offset: 5, 3
+  index: -1
+odysseus_spawn5
+  rotate: false
+  xy: 85, 240
+  size: 19, 16
+  orig: 24, 24
+  offset: 2, 3
+  index: -1
+odysseus_spawn6
+  rotate: false
+  xy: 23, 220
+  size: 21, 17
+  orig: 24, 24
+  offset: 1, 3
+  index: -1
+odysseus_spawn7
+  rotate: false
+  xy: 23, 237
+  size: 22, 19
+  orig: 24, 24
+  offset: 0, 2
+  index: -1
+odysseus_spawn8
+  rotate: false
+  xy: 0, 236
+  size: 23, 20
+  orig: 24, 24
+  offset: 0, 2
+  index: -1
+odysseus_teleport1
+  rotate: false
+  xy: 177, 230
+  size: 11, 13
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_teleport2
+  rotate: false
+  xy: 0, 30
+  size: 11, 15
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_teleport3
+  rotate: false
+  xy: 27, 82
+  size: 12, 11
+  orig: 24, 24
+  offset: 5, 4
+  index: -1
+odysseus_teleport4
+  rotate: false
+  xy: 0, 58
+  size: 14, 14
+  orig: 24, 24
+  offset: 5, 3
+  index: -1
+odysseus_teleport5
+  rotate: false
+  xy: 66, 240
+  size: 19, 16
+  orig: 24, 24
+  offset: 2, 3
+  index: -1
+odysseus_teleport6
+  rotate: false
+  xy: 45, 239
+  size: 21, 17
+  orig: 24, 24
+  offset: 1, 3
+  index: -1
+odysseus_teleport7
+  rotate: false
+  xy: 0, 197
+  size: 22, 19
+  orig: 24, 24
+  offset: 0, 2
+  index: -1
+odysseus_teleport8
+  rotate: false
+  xy: 0, 216
+  size: 23, 20
+  orig: 24, 24
+  offset: 0, 2
+  index: -1

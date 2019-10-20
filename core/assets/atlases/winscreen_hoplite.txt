@@ -1,0 +1,118 @@
+
+winscreen_hoplite.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+winscreen_hoplite_loop1
+  rotate: false
+  xy: 0, 416
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_loop2
+  rotate: false
+  xy: 0, 320
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_loop3
+  rotate: false
+  xy: 128, 416
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_loop4
+  rotate: false
+  xy: 0, 224
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_loop6
+  rotate: false
+  xy: 0, 224
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_loop5
+  rotate: false
+  xy: 128, 320
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_loop7
+  rotate: false
+  xy: 256, 416
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_loop8
+  rotate: false
+  xy: 384, 416
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_start1
+  rotate: false
+  xy: 0, 128
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_start2
+  rotate: false
+  xy: 128, 224
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_start3
+  rotate: false
+  xy: 256, 320
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_start4
+  rotate: false
+  xy: 384, 320
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_start5
+  rotate: false
+  xy: 0, 32
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_start6
+  rotate: false
+  xy: 128, 128
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_start7
+  rotate: false
+  xy: 256, 224
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1
+winscreen_hoplite_start8
+  rotate: false
+  xy: 384, 224
+  size: 128, 96
+  orig: 128, 96
+  offset: 0, 0
+  index: -1

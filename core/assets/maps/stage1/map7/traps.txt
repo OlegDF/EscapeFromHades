@@ -1,0 +1,6 @@
+3
+3 3 3 //id
+1 1 1 //x
+2 5 8 //y
+2.4f 1.6f 2.0f //starttime
+1 1 1 //direction

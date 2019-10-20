@@ -1,0 +1,20 @@
+6 6 7
+Hoplite
+ 
++ 3 health
++ Attacks with 
+ spear
+- Slow
+Messenger
+ 
++ Fast
+~ Attacks with 
+ fist
+- 1 health
+Alchemist
+
++ Attacks with
+ thrown fire
+ bottles at range
+- 1 health
+- Slow

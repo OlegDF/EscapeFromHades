@@ -1,0 +1,461 @@
+
+hecatoncheires.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hecatoncheires_die1
+  rotate: false
+  xy: 412, 464
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin1
+  rotate: false
+  xy: 412, 464
+  size: 48, 48
+  orig: 56, 56
+  offset: 4, 4
+  index: -1
+hecatoncheires_spin28
+  rotate: false
+  xy: 412, 464
+  size: 48, 48
+  orig: 56, 56
+  offset: 4, 4
+  index: -1
+hecatoncheires_spin_quick1
+  rotate: false
+  xy: 412, 464
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_die2
+  rotate: false
+  xy: 48, 0
+  size: 47, 47
+  orig: 48, 48
+  offset: 1, 0
+  index: -1
+hecatoncheires_die3
+  rotate: false
+  xy: 144, 5
+  size: 42, 38
+  orig: 48, 48
+  offset: 3, 0
+  index: -1
+hecatoncheires_die4
+  rotate: false
+  xy: 0, 5
+  size: 48, 38
+  orig: 48, 48
+  offset: 0, 1
+  index: -1
+hecatoncheires_die5
+  rotate: false
+  xy: 56, 313
+  size: 48, 35
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_die6
+  rotate: false
+  xy: 54, 287
+  size: 48, 26
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_die7
+  rotate: false
+  xy: 112, 379
+  size: 48, 25
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_die8
+  rotate: false
+  xy: 104, 306
+  size: 48, 25
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin12
+  rotate: false
+  xy: 0, 456
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin16
+  rotate: false
+  xy: 0, 456
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin14
+  rotate: false
+  xy: 0, 400
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin18
+  rotate: false
+  xy: 0, 400
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin15
+  rotate: false
+  xy: 56, 456
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin11
+  rotate: false
+  xy: 56, 456
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin17
+  rotate: false
+  xy: 0, 344
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin13
+  rotate: false
+  xy: 0, 344
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin19
+  rotate: false
+  xy: 56, 400
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin10
+  rotate: false
+  xy: 56, 400
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin2
+  rotate: false
+  xy: 96, 114
+  size: 48, 48
+  orig: 56, 56
+  offset: 4, 5
+  index: -1
+hecatoncheires_spin27
+  rotate: false
+  xy: 96, 114
+  size: 48, 48
+  orig: 56, 56
+  offset: 4, 5
+  index: -1
+hecatoncheires_spin3
+  rotate: false
+  xy: 96, 66
+  size: 48, 48
+  orig: 56, 56
+  offset: 3, 6
+  index: -1
+hecatoncheires_spin26
+  rotate: false
+  xy: 96, 66
+  size: 48, 48
+  orig: 56, 56
+  offset: 3, 6
+  index: -1
+hecatoncheires_spin4
+  rotate: false
+  xy: 0, 240
+  size: 50, 50
+  orig: 56, 56
+  offset: 1, 4
+  index: -1
+hecatoncheires_spin25
+  rotate: false
+  xy: 0, 240
+  size: 50, 50
+  orig: 56, 56
+  offset: 1, 4
+  index: -1
+hecatoncheires_spin5
+  rotate: false
+  xy: 56, 348
+  size: 52, 52
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+hecatoncheires_spin24
+  rotate: false
+  xy: 56, 348
+  size: 52, 52
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+hecatoncheires_spin6
+  rotate: false
+  xy: 112, 404
+  size: 52, 52
+  orig: 56, 56
+  offset: 0, 2
+  index: -1
+hecatoncheires_spin23
+  rotate: false
+  xy: 112, 404
+  size: 52, 52
+  orig: 56, 56
+  offset: 0, 2
+  index: -1
+hecatoncheires_spin7
+  rotate: false
+  xy: 168, 460
+  size: 52, 52
+  orig: 56, 56
+  offset: 1, 3
+  index: -1
+hecatoncheires_spin22
+  rotate: false
+  xy: 168, 460
+  size: 52, 52
+  orig: 56, 56
+  offset: 1, 3
+  index: -1
+hecatoncheires_spin8
+  rotate: false
+  xy: 0, 290
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+hecatoncheires_spin21
+  rotate: false
+  xy: 0, 290
+  size: 54, 54
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+hecatoncheires_spin9
+  rotate: false
+  xy: 112, 456
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin20
+  rotate: false
+  xy: 112, 456
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin_quick3
+  rotate: false
+  xy: 50, 239
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin_quick4
+  rotate: false
+  xy: 146, 187
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin_quick2
+  rotate: false
+  xy: 146, 187
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_spin_quick5
+  rotate: false
+  xy: 48, 191
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+hecatoncheires_walk_east1
+  rotate: false
+  xy: 108, 331
+  size: 48, 48
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+hecatoncheires_walk_east2
+  rotate: false
+  xy: 102, 258
+  size: 48, 48
+  orig: 52, 52
+  offset: 1, 3
+  index: -1
+hecatoncheires_walk_east3
+  rotate: false
+  xy: 316, 463
+  size: 48, 49
+  orig: 52, 52
+  offset: 4, 3
+  index: -1
+hecatoncheires_walk_east4
+  rotate: false
+  xy: 98, 210
+  size: 48, 48
+  orig: 52, 52
+  offset: 4, 3
+  index: -1
+hecatoncheires_walk_east5
+  rotate: false
+  xy: 96, 162
+  size: 48, 48
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+hecatoncheires_walk_east6
+  rotate: false
+  xy: 144, 43
+  size: 48, 48
+  orig: 52, 52
+  offset: 1, 3
+  index: -1
+hecatoncheires_walk_east7
+  rotate: false
+  xy: 0, 91
+  size: 48, 49
+  orig: 52, 52
+  offset: 4, 3
+  index: -1
+hecatoncheires_walk_east8
+  rotate: false
+  xy: 164, 408
+  size: 48, 48
+  orig: 52, 52
+  offset: 4, 3
+  index: -1
+hecatoncheires_walk_north1
+  rotate: false
+  xy: 460, 464
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 2
+  index: -1
+hecatoncheires_walk_north2
+  rotate: false
+  xy: 364, 464
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 4
+  index: -1
+hecatoncheires_walk_north3
+  rotate: false
+  xy: 220, 462
+  size: 48, 50
+  orig: 48, 52
+  offset: 0, 2
+  index: -1
+hecatoncheires_walk_north4
+  rotate: false
+  xy: 0, 43
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 1
+  index: -1
+hecatoncheires_walk_north5
+  rotate: false
+  xy: 48, 143
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 2
+  index: -1
+hecatoncheires_walk_north6
+  rotate: false
+  xy: 48, 95
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 4
+  index: -1
+hecatoncheires_walk_north7
+  rotate: false
+  xy: 0, 190
+  size: 48, 50
+  orig: 48, 52
+  offset: 0, 2
+  index: -1
+hecatoncheires_walk_north8
+  rotate: false
+  xy: 48, 47
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 1
+  index: -1
+hecatoncheires_walk_south1
+  rotate: false
+  xy: 96, 18
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 2
+  index: -1
+hecatoncheires_walk_south2
+  rotate: false
+  xy: 144, 139
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 4
+  index: -1
+hecatoncheires_walk_south3
+  rotate: false
+  xy: 0, 140
+  size: 48, 50
+  orig: 48, 52
+  offset: 0, 2
+  index: -1
+hecatoncheires_walk_south4
+  rotate: false
+  xy: 156, 331
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 1
+  index: -1
+hecatoncheires_walk_south5
+  rotate: false
+  xy: 152, 283
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 2
+  index: -1
+hecatoncheires_walk_south6
+  rotate: false
+  xy: 150, 235
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 4
+  index: -1
+hecatoncheires_walk_south7
+  rotate: false
+  xy: 268, 462
+  size: 48, 50
+  orig: 48, 52
+  offset: 0, 2
+  index: -1
+hecatoncheires_walk_south8
+  rotate: false
+  xy: 144, 91
+  size: 48, 48
+  orig: 48, 52
+  offset: 0, 1
+  index: -1

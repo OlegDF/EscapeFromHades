@@ -1,0 +1,12 @@
+9
+New Game
+Settings
+High Scores
+Exit
+Music Volume
+Sound Volume
+Language: English
+Return
+Stage: 
+The Boneyard
+The Ghosts of Troy
